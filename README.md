@@ -81,10 +81,6 @@ Visual Studio / VS Code (for scripting)
 Git & GitHub (version control)
 Blender / Unity Asset Store (for 3D models)
 Adobe Photoshop / GIMP (for textures & UI)
-⚙️ Installation & Setup
-Clone the repository:
-git clone https://github.com/yourusername/disaster-simulation-game.git
-cd disaster-simulation-game
 
 Open the project in Unity Hub (recommended Unity version: 2021.3+).
 Allow Unity to load the assets and dependencies.
