@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "784668788630",
+    "firebase_url": "https://thesis-ldb-default-rtdb.firebaseio.com",
+    "project_id": "thesis-ldb",
+    "storage_bucket": "thesis-ldb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784668788630:android:3573af9b1e68c630e97fb7",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.ThesisLDB"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJFTgYsSjKvhteRbE1ldYtL4fvnS_I47w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
